@@ -1,5 +1,6 @@
 # ReactPC
 Software for employees of a computer service, with the functions of administering, changing and correcting customer data and placed orders.
+## Technology: С#, MSSQL.
 
 ## Sign in 
 (Восстановление пароля по e-mail)
