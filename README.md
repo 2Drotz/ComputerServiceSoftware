@@ -1,4 +1,4 @@
-# ReactPC
+# ReactPC - computer service
 Software for employees of a computer service, with the functions of administering, changing and correcting customer data and placed orders.
 ## Technology: С#, MSSQL.
 
